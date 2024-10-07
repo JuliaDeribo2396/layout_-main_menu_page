@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+body {
+    background: url(images/bg.jpg);
+    margin: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.pusto {
+    width: 20%;
+    border: none;
+}
+
+.textp {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+hr {
+    width: 10px;
+}
+
+.header {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    margin: 0;
+}
+
+.gf {
+    margin: 80px 0px;
+}
+
+.menu {
+    background-color: white;
+    height: 50px;
+    width: 80px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+}
+
+.b1 {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.b2 {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    /* transition: 0.3s; */
+}
+/* Если закомментировать b1 и раскомментировать закоменттированное сейчас,
+ то будет работать=) 
+при наведении черный бэкграунд)
+.b2:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+} */
+
+.b3 {
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#meat {
+    color: #cf6363;
+}
+
+h2 {
+    text-align: center;
+    margin: 0;
+}
+
+.desc1 {
+    background-color: #f3f7fa;
+    text-align: center;
+    font-size: 15px;
+    height: 360px;
+    border: none;
+    line-height: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+img {
+    width: 400px;
+    margin: 0px 25px;
+}
+
+.img1 {
+    background-color: #f3f7fa;
+    border: none;
+}
+
+.desc2 {
+    background-color: white;
+    text-align: center;
+    font-size: 15px;
+    height: 360px;
+    border: none;
+    line-height: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.img2 {
+    background-color: white;
+    border: none;
+}
+
+.last {
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    border: none;
+}
+
+.img3 { 
+   border: none;
+}
+.img_pic {
+    width: 430px;
+    height: 250px;
+    margin: 0;
+    display: block; 
+    width: 480px;
+}
+.desc3 {
+    background-color: white;
+    text-align: center;
+    font-size: 15px;
+    height: 250px;
+    width: 500pxpx;
+    border: none;
+    line-height: 25px;
+}
+
+.pusto_last {
+    height: 70px;
+    border: none;
+}
+
+.footer {
+    background-color: white;
+    height: 80px;
+    text-align: center;
+    border: none;
+
+}
+
+.zerotheme {
+    text-transform: uppercase;
+    color: grey;
+    
+}
+
+.text1_f {
+    text-align: left;
+    margin: 0px 80px;
+}
+
+.text2_f {
+    color: grey;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+i {
+    color: #cf5d70;
+}
+
+.text2_m {
+    margin: 0px 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
